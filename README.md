@@ -1,2 +1,2 @@
 "# Django"
-"README.md�ɒǋL" 
+README.mdをリモートリポジトリから直接更新
